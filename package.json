@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/gmaiztegi/ekhin14-3/issues"
   },
-  "homepage": "https://github.com/gmaiztegi/ekhin14-3"
+  "homepage": "https://github.com/gmaiztegi/ekhin14-3",
+  "private": "true",
+  "dependencies": {
+    "express": "4.4.3"
+  }
 }
