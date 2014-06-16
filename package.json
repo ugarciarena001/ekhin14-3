@@ -1,0 +1,27 @@
+{
+  "name": "ekhin14-3",
+  "version": "0.0.0",
+  "description": "Proyecto de tarea para la sesión 3 del módulo Ekhin '14",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gmaiztegi/ekhin14-3.git"
+  },
+  "keywords": [
+    "npm",
+    "express"
+  ],
+  "author": "Gorka Maiztegi <gmaiztegi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmaiztegi/ekhin14-3/issues"
+  },
+  "homepage": "https://github.com/gmaiztegi/ekhin14-3"
+}
